@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-ignite-template-conceitos-do-nodejs
+Desafio do modeulo 1 de conceitos do NODE JS
 
 ## 📝 Licença
 
