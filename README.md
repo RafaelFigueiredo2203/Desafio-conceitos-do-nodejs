@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-Desafio do modeulo 1 de conceitos do NODE JS
+Desafio do MÓDULO 1 de conceitos do NODE JS
 
 ## 📝 Licença
 
